@@ -1,3 +1,6 @@
+# TIPS
+  Seccion 4 -> 38. CSS Hoja de estilo global para toda la aplicacion de angular
+
 # Bases
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
