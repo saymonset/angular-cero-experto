@@ -1,5 +1,6 @@
 # TIPS
   Seccion 4 -> 38. CSS Hoja de estilo global para toda la aplicacion de angular
+Seccion 4 -> 50. Crear modulos
 
 # Bases
 
