@@ -2,6 +2,8 @@
   Seccion 4 -> 38. CSS Hoja de estilo global para toda la aplicacion de angular
 Seccion 4 -> 50. Crear modulos
 
+Seccion 5 -> 65. Emitimos un evento con su objeto desde un cpmponente hijo hacia el padre
+
 # Bases
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
