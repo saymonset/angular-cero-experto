@@ -3,7 +3,7 @@
 Seccion 4 -> 50. Crear modulos
 
 Seccion 5 -> 65. Emitimos un evento con su objeto desde un cpmponente hijo hacia el padre
-
+seccion 6 -> 66 . Depuracion en la aplicacion
 # Bases
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
