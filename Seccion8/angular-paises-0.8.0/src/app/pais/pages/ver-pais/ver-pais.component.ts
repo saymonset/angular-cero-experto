@@ -15,13 +15,13 @@ export class VerPaisComponent implements OnInit {
 
   pais!: Country;
 
-  constructor( 
+  constructor(
     private activatedRoute: ActivatedRoute,
     private paisService: PaisService
     ) { }
 
   ngOnInit(): void {
-
+  //Pendiente de los cambios de la url
     this.activatedRoute.params
       .pipe(
         switchMap( ({ id }) => this.paisService.getPaisPorAlpha( id )  ),
